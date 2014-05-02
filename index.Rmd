@@ -1,8 +1,8 @@
 ---
-title       : 
-subtitle    : 
-author      : 
-job         : 
+title       : Oh my God!!!
+subtitle    : What the fxxx
+author      : yeah man
+job         : XXXXX
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
@@ -15,11 +15,12 @@ mode        : selfcontained # {standalone, draft}
 1. Edit YAML front matter
 2. Write using R Markdown
 3. Use an empty line followed by three dashes to separate slides!
+4. Oh yyeah
 
 --- .class #id 
 
 ## Slide 2
-
+1. Another slide
 
 
 
